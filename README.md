@@ -1,4 +1,4 @@
-# 🔍 Secure Port Scanner
+# 🔍 Port Scanner
 
 Este é um projeto simples e **educacional** de scanner de portas feito em Python.  
 Ele verifica se algumas portas comuns estão abertas em um host ou IP informado.
@@ -12,3 +12,4 @@ Ele verifica se algumas portas comuns estão abertas em um host ou IP informado.
    ```bash
    git clone https://github.com/cyb3rl30/port-scanner.git
    cd port-scanner
+   python port-scanner.py
