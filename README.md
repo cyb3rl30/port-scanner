@@ -13,4 +13,4 @@ Ele verifica se algumas portas comuns estão abertas em um host ou IP informado.
    git clone https://github.com/cyb3rl30/port-scanner.git
    cd port-scanner
    chmod +x port-scanner.py
-   python port-scanner.py
+   python3 port-scanner.py
